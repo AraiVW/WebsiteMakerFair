@@ -17,13 +17,19 @@ h1 {
   text-decoration: underline 
 }
 .number{
-  margin-left: 55px;
+  margin-left: 349px;
 }
 .desmos{
   margin-left: 35px;
 }
 h2{
   font-family: sans-serif;
+}
+.ugh{
+  text-align: left;
+}
+.lol{
+  float: left;
 }
 img{
   float: right;
